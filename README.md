@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jakub</h1>
+<h1 align="center">Hi, I'm Jakub</h1>
 <h3 align="center">A Bioinfromatics graduate passionate in sotware development and data science</h3>
 
 - 🔭 I’m currently working on [epitope-analysis](https://github.com/JayPip/epitope-analysis)
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 I’m currently expanding my knowledge on **python libraries**
 
 - 📫 How to reach me **jakub.pipien@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jakub pipień" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub pipień" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/jakub pipień](https://www.linkedin.com/in/jakub-pipie%C5%84-62566225b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub pipień" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
