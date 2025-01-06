@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Jakub</h1>
 <h3 align="center">A Bioinfromatics graduate passionate in sotware development and data science</h3>
 
-- 🔭 I’m currently working on [epitope-analysis](https://github.com/JayPip/epitope-analysis)
-
-- 🌱 I’m currently expanding my knowledge on **python libraries**
-
 - 📫 How to reach me **jakub.pipien@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
