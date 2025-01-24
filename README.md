@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jakub</h1>
-<h3 align="center">Bioinfromatics graduate passionate in sotware development and data science</h3>
+<h3 align="center">Data Science graduate passionate in sotware development and data science</h3>
 
 - 📫 How to reach me **jakub.pipien@gmail.com**
 
